@@ -1,0 +1,1 @@
+add_executable(ch1-2 main.cpp)
